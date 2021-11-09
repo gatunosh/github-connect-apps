@@ -1,0 +1,4 @@
+[submodule "gatunosh/interface-github"]
+	path = gatunosh/interface-github
+	url = git@github.com:gatunosh/interface-github.git
+	branch = 14.0
