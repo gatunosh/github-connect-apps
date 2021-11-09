@@ -2,3 +2,8 @@
 	path = gatunosh/interface-github
 	url = git@github.com:gatunosh/interface-github.git
 	branch = 14.0
+
+[submodule "gatunosh/apps-store"]
+	path = gatunosh/apps-store
+	url = git@github.com:gatunosh/apps-store.git
+	branch = 14.0
